@@ -1,0 +1,30 @@
+C:\Users\Uchiha322\source\repos\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.csproj.AssemblyReference.cache
+C:\Users\Uchiha322\source\repos\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uchiha322\source\repos\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.AssemblyInfoInputs.cache
+C:\Users\Uchiha322\source\repos\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.AssemblyInfo.cs
+C:\Users\Uchiha322\source\repos\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.csproj.CoreCompileInputs.cache
+C:\Users\Uchiha322\source\repos\ConsoleApp88\bin\Debug\net7.0\ConsoleApp88.exe
+C:\Users\Uchiha322\source\repos\ConsoleApp88\bin\Debug\net7.0\ConsoleApp88.deps.json
+C:\Users\Uchiha322\source\repos\ConsoleApp88\bin\Debug\net7.0\ConsoleApp88.runtimeconfig.json
+C:\Users\Uchiha322\source\repos\ConsoleApp88\bin\Debug\net7.0\ConsoleApp88.dll
+C:\Users\Uchiha322\source\repos\ConsoleApp88\bin\Debug\net7.0\ConsoleApp88.pdb
+C:\Users\Uchiha322\source\repos\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.dll
+C:\Users\Uchiha322\source\repos\ConsoleApp88\obj\Debug\net7.0\refint\ConsoleApp88.dll
+C:\Users\Uchiha322\source\repos\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.pdb
+C:\Users\Uchiha322\source\repos\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.genruntimeconfig.cache
+C:\Users\Uchiha322\source\repos\ConsoleApp88\obj\Debug\net7.0\ref\ConsoleApp88.dll
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\bin\Debug\net7.0\ConsoleApp88.exe
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\bin\Debug\net7.0\ConsoleApp88.deps.json
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\bin\Debug\net7.0\ConsoleApp88.runtimeconfig.json
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\bin\Debug\net7.0\ConsoleApp88.dll
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\bin\Debug\net7.0\ConsoleApp88.pdb
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.csproj.AssemblyReference.cache
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.AssemblyInfoInputs.cache
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.AssemblyInfo.cs
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.csproj.CoreCompileInputs.cache
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.dll
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\obj\Debug\net7.0\refint\ConsoleApp88.dll
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.pdb
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\obj\Debug\net7.0\ConsoleApp88.genruntimeconfig.cache
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ConsoleApp88\obj\Debug\net7.0\ref\ConsoleApp88.dll

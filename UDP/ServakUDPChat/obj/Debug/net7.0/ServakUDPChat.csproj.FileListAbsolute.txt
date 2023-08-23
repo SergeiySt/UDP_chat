@@ -1,0 +1,30 @@
+C:\Users\Uchiha322\source\repos\ServakUDPChat\bin\Debug\net7.0\ServakUDPChat.exe
+C:\Users\Uchiha322\source\repos\ServakUDPChat\bin\Debug\net7.0\ServakUDPChat.deps.json
+C:\Users\Uchiha322\source\repos\ServakUDPChat\bin\Debug\net7.0\ServakUDPChat.runtimeconfig.json
+C:\Users\Uchiha322\source\repos\ServakUDPChat\bin\Debug\net7.0\ServakUDPChat.dll
+C:\Users\Uchiha322\source\repos\ServakUDPChat\bin\Debug\net7.0\ServakUDPChat.pdb
+C:\Users\Uchiha322\source\repos\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.csproj.AssemblyReference.cache
+C:\Users\Uchiha322\source\repos\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uchiha322\source\repos\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.AssemblyInfoInputs.cache
+C:\Users\Uchiha322\source\repos\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.AssemblyInfo.cs
+C:\Users\Uchiha322\source\repos\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.csproj.CoreCompileInputs.cache
+C:\Users\Uchiha322\source\repos\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.dll
+C:\Users\Uchiha322\source\repos\ServakUDPChat\obj\Debug\net7.0\refint\ServakUDPChat.dll
+C:\Users\Uchiha322\source\repos\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.pdb
+C:\Users\Uchiha322\source\repos\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.genruntimeconfig.cache
+C:\Users\Uchiha322\source\repos\ServakUDPChat\obj\Debug\net7.0\ref\ServakUDPChat.dll
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\bin\Debug\net7.0\ServakUDPChat.exe
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\bin\Debug\net7.0\ServakUDPChat.deps.json
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\bin\Debug\net7.0\ServakUDPChat.runtimeconfig.json
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\bin\Debug\net7.0\ServakUDPChat.dll
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\bin\Debug\net7.0\ServakUDPChat.pdb
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.csproj.AssemblyReference.cache
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.AssemblyInfoInputs.cache
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.AssemblyInfo.cs
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.csproj.CoreCompileInputs.cache
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.dll
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\obj\Debug\net7.0\refint\ServakUDPChat.dll
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.pdb
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\obj\Debug\net7.0\ServakUDPChat.genruntimeconfig.cache
+D:\ДЗ_Шаг\Мережеве программування\Lesson_4\UDP\ServakUDPChat\obj\Debug\net7.0\ref\ServakUDPChat.dll
